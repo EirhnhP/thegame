@@ -1,5 +1,3 @@
-
-# secret
-Please paste the result below this line
+## Please paste the result below this line
 ------------------------------------------------------------------------
 
